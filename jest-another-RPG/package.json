@@ -1,0 +1,21 @@
+{
+    "name": "clear",
+    "version": "1.0.0",
+    "description": "c",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "repository": {
+        "type": "git",
+        "url": "jest-another-RPG"
+    },
+    "keywords": [
+        "rpg"
+    ],
+    "author": "Wayne Edwards",
+    "license": "ISC",
+    "devDependencies": {
+        "jest": "^26.6.3"
+    }
+}
